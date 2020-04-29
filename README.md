@@ -8,4 +8,7 @@
   - [x] ~~国外服务器被墙了【劝退】~~
   - [x] ~~国内服务器域名要备案【劝退 + 1】~~
 - [x] [读《你的灯还亮着吗？》有感](https://mp.weixin.qq.com/s/P3xhgiOTPVqzRpen7No04Q)
+- [ ] 函数式编程
+  - [ ] [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html)
+  - [ ] 《函数式变成思维》【29%】
 
