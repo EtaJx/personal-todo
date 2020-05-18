@@ -12,5 +12,5 @@
 - [x] [读《你的灯还亮着吗？》有感](https://mp.weixin.qq.com/s/P3xhgiOTPVqzRpen7No04Q)
 - [ ] 函数式编程
   - [ ] [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.html)
-  - [ ] 《函数式编程思维》【29%】
+  - [ ] 《函数式编程思维》【41%】
 
